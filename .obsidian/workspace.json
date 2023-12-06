@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d906d51f340715b",
+        "id": "94eae2e8c9957917",
         "type": "tabs",
         "children": [
           {
-            "id": "d9834aed211bdd12",
+            "id": "d283d55232e2d096",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +137,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1eac90327b051d4b",
+  "active": "d283d55232e2d096",
   "lastOpenFiles": [
+    "00/Без названия.md",
+    "README.md",
+    "00",
     "00",
     "Без названия.md",
-    "Без названия/Без названия.md",
-    "README.md"
+    "Без названия/Без названия.md"
   ]
 }
