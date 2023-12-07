@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "94eae2e8c9957917",
+        "id": "fe83b59b38dae81b",
         "type": "tabs",
         "children": [
           {
-            "id": "d283d55232e2d096",
+            "id": "2e5206344b03ed02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Аналитика/2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Аналитика/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Аналитика/2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Аналитика/2.md"
+              }
             }
           }
         ]
@@ -137,13 +145,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d283d55232e2d096",
+  "active": "1eac90327b051d4b",
   "lastOpenFiles": [
+    "Тесты/iOS",
+    "Тесты/Андроид",
+    "Тесты/Веб",
+    "Тесты",
+    "Дизайн/1.md",
+    "Аналитика/2.md",
+    "Аналитика",
+    "Без названия.md",
+    "Дизайн",
     "00/Без названия.md",
     "README.md",
     "00",
     "00",
-    "Без названия.md",
     "Без названия/Без названия.md"
   ]
 }
